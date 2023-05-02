@@ -34,7 +34,7 @@ function App() {
                 Reports</li>
             </ul>
             <div class="d-grid">
-              <a class="btn btn-primary text-uppercase">Button</a>
+              <a href="blank" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ function App() {
                 Reports</li>
             </ul>
             <div class="d-grid">
-              <a class="btn btn-primary text-uppercase">Button</a>
+              <a href="blank" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@ function App() {
               <li><span class="fa-li"><FontAwesomeIcon icon={faCheck}/></span>Monthly Status Reports</li>
             </ul>
             <div class="d-grid">
-              <a class="btn btn-primary text-uppercase">Button</a>
+              <a href="blank" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
